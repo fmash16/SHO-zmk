@@ -1,0 +1,10 @@
+file_format: "1"
+id: sho
+name: sho
+type: shield
+requires: [seeed_xiao]
+features:
+  - keys
+siblings:
+  - sho_left
+  - sho_right

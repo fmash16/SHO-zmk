@@ -1,0 +1,16 @@
+if SHIELD_SHO_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "sho"
+
+config ZMK_SPLIT_BLE_ROLE_CENTRAL
+	default y
+    
+endif
+
+if SHIELD_SHO_LEFT || SHIELD_SHO_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
