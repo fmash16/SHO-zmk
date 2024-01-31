@@ -50,7 +50,7 @@
 &kp LA(1)         &kp LA(2)         &kp LA(3)         &kp LA(4)         &kp LA(5)              &kp LA(6)         &kp LA(7)          &kp LA(8)         &kp LA(9)         &kp LA(0)
 &kp LA(A)         &kp LA(S)         &kp LA(D)         &kp LA(F)         &kp LA(G)              &kp LA(H)         &kp LA(J)          &kp LA(K)         &kp LA(L)         &kp LA(SQT)
 &lt ALTSHIFT LA(Z)         &kp LA(X)         &kp LA(C)         &kp LA(V)         &kp LA(B)              &kp LA(N)         &kp LA(M)          &kp LA(COMMA)     &kp LA(DOT)       &kp LA(FSLH)
-&kp LCTRL      &lt NAV ESC    &kp SPACE                                                                          &lt NUM RET    &lt SYM ESC    &lt MOUSE BSPC 
+&kp LCTRL      &lt NAV ESC    &kp SPACE                                                                       &lt NUM RET    &lt SYM ESC    &lt BLU BSPC 
             >;
         };
 
