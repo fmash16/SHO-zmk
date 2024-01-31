@@ -87,9 +87,9 @@
         altshift_layer {
             
             bindings = <
-&kp LS(LA(Q)         &kp LS(LA(W)         &kp LS(LA(E)         &kp LS(LA(R)         &kp LS(LA(T)              &kp LS(LA(Y)         &kp LS(LA(U)          &kp LS(LA(I)         &kp LS(LA(O)         &kp LS(LA(P)
-&kp LS(LA(A)         &kp LS(LA(S)         &kp LS(LA(D)         &kp LS(LA(F)         &kp LS(LA(G)              &kp LS(LA(H)         &kp LS(LA(J)          &kp LS(LA(K)         &kp LS(LA(L)         &kp LS(LA(SQT)
-&kp LS(LA(Z)         &kp LS(LA(X)         &kp LS(LA(C)         &kp LS(LA(V)         &kp LS(LA(B)              &kp LS(LA(N)         &kp LS(LA(M)          &kp LS(LA(COMMA)     &kp LS(LA(DOT)       &kp LS(LA(FSLH)
+&kp LS(LA(Q))         &kp LS(LA(W))         &kp LS(LA(E))         &kp LS(LA(R))         &kp LS(LA(T))              &kp LS(LA(Y))         &kp LS(LA(U))          &kp LS(LA(I))         &kp LS(LA(O))         &kp LS(LA(P))
+&kp LS(LA(A))         &kp LS(LA(S))         &kp LS(LA(D))         &kp LS(LA(F))         &kp LS(LA(G))              &kp LS(LA(H))         &kp LS(LA(J))          &kp LS(LA(K))         &kp LS(LA(L))         &kp LS(LA(SQT))
+&kp LS(LA(Z))         &kp LS(LA(X))         &kp LS(LA(C))         &kp LS(LA(V))         &kp LS(LA(B))              &kp LS(LA(N))         &kp LS(LA(M))          &kp LS(LA(COMMA))     &kp LS(LA(DOT))       &kp LS(LA(FSLH))
 &kp LCTRL      &lt NAV ESC    &kp SPACE                                                                       &lt NUM RET    &lt SYM ESC    &lt BLU BSPC 
             >;
         };
