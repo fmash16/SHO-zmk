@@ -89,7 +89,7 @@
             bindings = <
 &kp LS(LA(Q))         &kp LS(LA(N1))        &kp LS(LA(N2))        &kp LS(LA(N3))        &kp LS(LA(N4))             &kp LS(LA(N5))        &kp LS(LA(N6))         &kp LS(LA(N7))        &kp LS(LA(N8))        &kp LS(LA(N9))
 &kp LS(LA(A))         &kp LS(LA(S))         &kp LS(LA(D))         &kp LS(LA(F))         &kp LS(LA(G))              &kp LS(LA(H))         &kp LS(LA(J))          &kp LS(LA(K))         &kp LS(LA(L))         &kp LS(LA(SQT))
-&mt LS(LA(Z))         &kp LS(LA(X))         &kp LS(LA(C))         &kp LS(LA(V))         &kp LS(LA(B))              &kp LS(LA(N))         &kp LS(LA(M))          &kp LS(LA(COMMA))     &kp LS(LA(DOT))       &kp LS(LA(FSLH))
+&kp LS(LA(Z))         &kp LS(LA(X))         &kp LS(LA(C))         &kp LS(LA(V))         &kp LS(LA(B))              &kp LS(LA(N))         &kp LS(LA(M))          &kp LS(LA(COMMA))     &kp LS(LA(DOT))       &kp LS(LA(FSLH))
 &kp LCTRL      &lt NAV ESC    &kp SPACE                                                                       &lt NUM RET    &lt SYM ESC    &lt BLU BSPC 
             >;
         };
