@@ -7,5 +7,5 @@ requires: [seeeduino_xiao_ble]
 features:
   - keys
 siblings:
-  - pica40_left
-  - pica40_right
+  - sho_left
+  - sho_right
